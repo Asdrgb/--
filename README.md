@@ -5,7 +5,7 @@ Collection of popular image filtering&amp;edge-preserving filtering works
 
 ## Weighted average
 
-* __Anisotropic Diffusion__  [paper](https://tauruspet.med.yale.edu/staff/edm42/IUPUI-website/emorris.tar/emorris/emorris/TransportCourse2008/papers/AnistropicDiffusionImageFilterPeronaIEEETPAMI_1990.pdf)
+* __Anisotropic Diffusion__  [paper](https://tauruspet.med.yale.edu/staff/edm42/IUPUI-website/emorris.tar/emorris/emorris/TransportCourse2008/papers/AnistropicDiffusionImageFilterPeronaIEEETPAMI_1990.pdf)      
 P. Perona and J. Malik, “Scale-Space and Edge Detection Using Anisotropic Diffusion,” IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 12, no. 7, pp. 629-639, July 1990. 
 
 * __Bilateral Filtering__   
