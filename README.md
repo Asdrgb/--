@@ -36,7 +36,7 @@ based image filtering: fast structure-preserving smoothing. In IEEE Internationa
 Conference on Computer Vision (ICCV). 361–369.
 
 
-## No-average  
+## Non-average  
 
 * __Total Variation__    
  L.I. Rudin, S. Osher, and E. Fatemi, “Nonlinear Total Variation Based Noise Removal Algorithms,” Physica D, vol. 60, nos. 1-4, pp. 259-268, Nov. 1992.
@@ -77,4 +77,8 @@ X. Guo, Y. Li, J. Ma and H. Ling, "Mutually Guided Image Filtering," in IEEE Tra
 
 * __Real-time Image Smoothing via Iterative Least Squares__     
 Wei Liu, Pingping Zhang, Xiaolin Huang, Jie Yang, Chunhua Shen, and Ian Reid. 2020. Real-time Image Smoothing via Iterative Least Squares. ACM Trans. Graph. 39, 3, Article 28 (June 2020), 24 pages.
+
+
+
+## Deep Learning
 
