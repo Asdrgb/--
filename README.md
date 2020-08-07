@@ -11,26 +11,26 @@ P. Perona and J. Malik, “Scale-Space and Edge Detection Using Anisotropic Diff
 * __Bilateral Filtering__  [paper](http://www.super.tka4.org/materials/lib/Articles-Books/Filters/Bilateral/tomasi98bilateral.pdf)   
 C. Tomasi and R. Manduchi, “Bilateral Filtering for Gray and Color Images,” Proc. IEEE Int’l Computer Vision Conf., 1998. 
 
-* __Joint Bilateral Filtering__[paper](https://www.academia.edu/download/55335879/Digital_photography_with_flash_and_no-fl20171219-25886-1udhl51.pdf)     
+* __Joint Bilateral Filtering__  [paper](https://www.academia.edu/download/55335879/Digital_photography_with_flash_and_no-fl20171219-25886-1udhl51.pdf)     
 G. Petschnigg, M. Agrawala, H. Hoppe, R. Szeliski, M. Cohen, and K. Toyama, “Digital Photography with Flash and No-Flash Image Pairs,” Proc. ACM Siggraph, 2004. 
 
-* __Edge-Avoiding Wavelets__[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.8462&rep=rep1&type=pdf)    
+* __Edge-Avoiding Wavelets__  [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.8462&rep=rep1&type=pdf)    
 R. Fattal, “Edge-Avoiding Wavelets and Their Applications,” Proc. ACM Siggraph, 2009. 
 
-* __Domain Transform Filtering__[paper](http://www.inf.ufrgs.br/~eslgastal/DomainTransform/Gastal_Oliveira_SIGGRAPH2011_Domain_Transform.pdf)    
+* __Domain Transform Filtering__  [paper](http://www.inf.ufrgs.br/~eslgastal/DomainTransform/Gastal_Oliveira_SIGGRAPH2011_Domain_Transform.pdf)    
 E.S.L. Gastal and M.M. Oliveira, “Domain Transform for EdgeAware Image and Video Processing,” ACM Trans. Graphics, vol. 30, no. 4, pp. 69:1-69:12, 2011. 
 
-* __Weighted Median Filtering__[paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Ma_Constant_Time_Weighted_2013_ICCV_paper.pdf)    
+* __Weighted Median Filtering__  [paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Ma_Constant_Time_Weighted_2013_ICCV_paper.pdf)    
 Ziyang Ma, Kaiming He, Yichen Wei, Jian Sun, and Enhua Wu. 2013. Constant timeweighted median filtering for stereo matching and beyond. In IEEE International Conference on Computer Vision (ICCV). IEEE, 49–56.
 
-* __Guided Filtering__[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.2027&rep=rep1&type=pdf)    
+* __Guided Filtering__  [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.2027&rep=rep1&type=pdf)    
 Kaiming He, Jian Sun, and Xiaoou Tang. 2013a. Guided image filtering. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 35, 6 (2013), 1397–1409.
 
-* __Tree Filtering__[paper](http://linchaobao.github.io/treefilter/tip13treefilter_lowres.pdf)     
+* __Tree Filtering__  [paper](http://linchaobao.github.io/treefilter/tip13treefilter_lowres.pdf)     
 Linchao Bao, Yibing Song, Qingxiong Yang, Hao Yuan, and Gang Wang. 2014. Tree
 filtering: Efficient structure-preserving smoothing with a minimum spanning tree.IEEE Transactions on Image Processing (TIP) 23, 2 (2014), 555–569.
 
-* __Segment Graph Based__[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Segment_Graph_Based_ICCV_2015_paper.pdf)     
+* __Segment Graph Based__  [paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_Segment_Graph_Based_ICCV_2015_paper.pdf)     
 Feihu Zhang, Longquan Dai, Shiming Xiang, and Xiaopeng Zhang. 2015. Segment graph
 based image filtering: fast structure-preserving smoothing. In IEEE International
 Conference on Computer Vision (ICCV). 361–369.
