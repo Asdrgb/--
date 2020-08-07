@@ -1,6 +1,6 @@
-# Image Filtering/Edge-preserving Filtering
+# Edge-preserving Filtering
 
-Collection of popular image filtering&amp;edge-preserving filtering works
+Collection of popular edge-preserving filtering works
 
 
 ## Weighted average
