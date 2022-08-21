@@ -1,4 +1,4 @@
-# Edge-preserving Filtering
+# 边缘保持滤波器
 
 Collection of popular edge-preserving filtering works
 
