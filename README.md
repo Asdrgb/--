@@ -1,7 +1,4 @@
 # 边缘保持滤波器
-
-
-
 ## Weighted average
 
 * __Anisotropic Diffusion__  [paper](https://tauruspet.med.yale.edu/staff/edm42/IUPUI-website/emorris.tar/emorris/emorris/TransportCourse2008/papers/AnistropicDiffusionImageFilterPeronaIEEETPAMI_1990.pdf)      
